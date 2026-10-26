@@ -2,7 +2,7 @@
 
 # GaugeTrack
 
-**Gauge Canonicalization for Multi-Camera 3D Perception **
+**Gauge Canonicalization for Multi-Camera 3D Perception**
 
 <img src="assets/fig_collapse.png" width="82%">
 
